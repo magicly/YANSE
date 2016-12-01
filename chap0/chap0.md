@@ -18,7 +18,7 @@
 * 3D, game engine, canvas, webgl
 * IoT...
 * OS?  https://github.com/charliesome/jsos
-* 
+* ...
 * means js is good?! no!
 * js will kill java? no!
 
@@ -27,9 +27,12 @@
 * 1995， js诞生， 10天开发出来的语言， 充满坑
 * 2008，V8， 速度飙升
 * NodeJS出现， 脱离browser
+* Node.js与io.js分久必合
 * angular
-* react
-* 。。。
+* react & react native
+* asm.js
+* WebAssembly
+* ...
 
 # 脱离浏览器
 系统调用
