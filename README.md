@@ -7,13 +7,13 @@ YANSE = Yet Another Node Study Experience
 
 # 课程内容
 
-## 来自何方， 去往何处 🕵
+## [来自何方， 去往何处 🕵](./chap0)
 * JS发展史， 几个里程碑事件
 * 应用场景
 * hello world
 * ...
 
-## Just Do It! 💪
+## [Just Do It! 💪](./chap1)
 * 几个简单而有意思的小工具
 * ...
 
